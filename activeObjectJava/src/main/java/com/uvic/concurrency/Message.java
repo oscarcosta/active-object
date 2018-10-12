@@ -1,3 +1,5 @@
+package com.uvic.concurrency;
+
 public class Message {
 
     private String content;

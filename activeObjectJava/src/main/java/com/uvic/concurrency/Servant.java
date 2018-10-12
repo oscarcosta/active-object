@@ -1,3 +1,4 @@
+package com.uvic.concurrency;
 
 public class Servant {
 
